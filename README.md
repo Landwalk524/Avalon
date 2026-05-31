@@ -1,2 +1,0 @@
-Sirius
-Open Source
